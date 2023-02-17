@@ -24,8 +24,10 @@ This tutorial displays the steps on implementing the Active Directory Domain Ser
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create 2 Virtual Machines
+- Create 2 Virtual Machines (Domain Controller and Client VM)
 - Enable ICMPv4 inbound rules
-- Change DNS server's address status
+- Change DNS server's address assignment
 - Download Active Directory Domain Services
-- Create an Admin and users
+- Stabilize the Domain Controller's Private IP address
+- Change the Client's DNS server to the Domain Controller's DNS server
+- Create an Admin and some users
