@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Active Directory step-by-step tutorial(Azure)</h1>
+<h1>Active Directory step-by-step tutorial</h1>
 This tutorial displays the steps on implementing the Active Directory Domain Services within Azure Virtual Machines.<br />
 
 
