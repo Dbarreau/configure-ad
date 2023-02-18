@@ -31,3 +31,53 @@ This tutorial displays the steps on implementing the Active Directory Domain Ser
 - Stabilize the Domain Controller's Private IP address
 - Change the Client's DNS server to the Domain Controller's DNS server
 - Create an Admin and some users
+
+Create DC-1 (rename My Report)
+
+Download AD it takes about 10 mins 
+
+Enable ICMPv4
+
+Change DC-1 IP Address from dynamic to static
+
+Complete the AD Download
+
+———————————
+
+
+Create Client 1 (rename to Barreau Hospital)
+
+Change Client 1 dns to DC-1’s dns server
+
+Restart DC-1
+
+Create Dr_Peters and make official
+
+
+
+Create 
+_employees to _doctors
+
+_admins to _nurses
+
+_users to  _patients
+
+_accountant to _boardmembers
+
+Then run script
+
+
+Restart client1 - cmd - ping -t 10.0.0.4
+
+Verify dc-1 is reachable on the network line
+
+Right click start- system - change PC name
+
+Restart client 1 sign in as Dr_Peters
+
+Right click - start - system- Remote Desktop - access to pc - domain users - apply 
+Restart client 
+
+Pick a select user from Dc-1 sign in
+On client (copy and paste on notepad)
+
