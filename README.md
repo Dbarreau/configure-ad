@@ -8,7 +8,7 @@ This tutorial displays the steps on implementing the Active Directory Domain Ser
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Active Directory Tutorial (https://youtu.be/RjjP7qcFxCQ)
+- ### [YouTube: Active Directory Tutorial (https://www.youtube.com/watch?v=VhZrN8monh0)
 
 <h2>Environments and Technologies Used</h2>
 
