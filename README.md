@@ -34,6 +34,8 @@ This tutorial displays the steps on implementing the Active Directory Domain Ser
 
 Create DC-1 (rename My Report)
 
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220387637-66cc1c09-a9b0-41a3-9ec0-4b8fbe57236a.jpg"></p>
+
 Download AD it takes about 10 mins 
 
 Enable ICMPv4
