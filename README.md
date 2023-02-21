@@ -32,7 +32,7 @@ This tutorial displays the steps on implementing the Active Directory Domain Ser
 - Change the Client's DNS server to the Domain Controller's DNS server
 - Create an Admin and some users
 
-Create two virtual machines, one is a Domain Controller and the other is for the client.
+Create two virtual machines, one is a Domain Controller and the other is the Client.
 In this tutorial, the Domain Controller is called Barreau Hospital. Barreau Hospital's  dns server private IP address is 10.0.0.4.
 The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0.0.5.
 
