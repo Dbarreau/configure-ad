@@ -45,8 +45,7 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/220667270-655eced0-e537-4dc7-a3b4-3dd0e86dc76a.png"></p>
 
 <p> Go to Microsoft Azure and change Domain Controller's IP Address from dynamic to static. This action will prevent the Private IP address from changing everyday and maintain stability for the other computers.</p>
-<p align=center><img src=![Step 3](https://user-images.githubusercontent.com/121436228/220678460-9048710f-c167-45d2-aa17-2e803cb62915.png)
-""></p>  
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220678460-9048710f-c167-45d2-aa17-2e803cb62915.png"></p>  
 
 Complete the AD Download
 
