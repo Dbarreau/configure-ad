@@ -36,7 +36,7 @@ On Microsoft Azure, create two virtual machines, one is a Domain Controller and 
 In this tutorial, the Domain Controller is called Barreau Hospital. Barreau Hospital's  dns server private IP address is 10.0.0.4.
 The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0.0.5.
 
-<p align=center><img src="https://user-images.githubusercontent.com/121436228/220389039-b5401c5c-82d1-434c-8cf4-45c7d808a68c.jpg"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220669251-4a2e9638-a2be-4714-a45d-294a55199111.png"></p>
 
 
 <p>In the Barreau Hospital's VM, download the Active Directory Domain Services. The new domain service will be called Myhealthreport.com </p>
