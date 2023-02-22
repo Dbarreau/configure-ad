@@ -51,35 +51,16 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 <p> New username: Myhealthreport.com\Pub.manaje ||||||||||||||||| Password: Password1 </p>
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/220687385-63a3e502-ae04-4be2-ba66-7a8d7c7a202d.png"></p>
 
-Create Client 1 (rename to Barreau Hospital)
 
-Change Client 1 dns to DC-1’s dns server
+<p> Go to Microsoft Azure, and change Computer 1 dns private IP address to Barreau Hospital’s dns server. Then restart Computer1's VM.</p>
+<p><img src="https://user-images.githubusercontent.com/121436228/220696740-b6b764b1-e872-4da8-9221-092fb91ce3d8.png"></p>
 
-Restart DC-1
-
-Create Dr_Peters and make official
-
+<p> Let's add the domain (myhealthreport.com) and the Admin to the Computer1's VM.  Log back in the computer1, right-click start, go system, and go to change PC name. Select Change then type in myhealthreport.com, plug in Pub.manaje username and password, finally restart Computer1.</p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220700824-46b37bf6-840d-4cd3-acad-65e6dfb2e483.png"></p>
 
 
-Create 
-_employees to _doctors
-
-_admins to _nurses
-
-_users to  _patients
-
-_accountant to _boardmembers
-
-Then run script
-
-
-Restart client1 - cmd - ping -t 10.0.0.4
-
-Verify dc-1 is reachable on the network line
-
-Right click start- system - change PC name
-
-Restart client 1 sign in as Dr_Peters
+<p> Next step is to add the Domain users. So, log back into Computer 1 as the Admin full username (myhealthreport.com\Pub.manaje) then right-click on the start button. Scroll up to System, go to Remote Desktop, then go to users that can access this pc, then add domain users.</p>
+<p align=center> <img src="https://user-images.githubusercontent.com/121436228/220702838-6efdddc3-36e3-4a1e-9ba2-82bb488db35e.png"></p>
 
 Right click - start - system- Remote Desktop - access to pc - domain users - apply 
 Restart client 
