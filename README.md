@@ -47,10 +47,8 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 <p> Go to Microsoft Azure and change Domain Controller's IP Address from dynamic to static. This action will prevent the Private IP address from changing everyday and maintain stability for the other computers.</p>
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/220678460-9048710f-c167-45d2-aa17-2e803cb62915.png"></p>  
 
-Complete the AD Download
-
-———————————
-
+<p> On Barreau Hospital's VM, go to the Server Manager and create an admin and new users.</p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220687385-63a3e502-ae04-4be2-ba66-7a8d7c7a202d.png"></p>
 
 Create Client 1 (rename to Barreau Hospital)
 
