@@ -53,7 +53,7 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 
 
 <p> Go to Microsoft Azure, and change Computer 1 dns private IP address to Barreau Hospital’s dns server. Then restart Computer1's VM.</p>
-<p><img src="https://user-images.githubusercontent.com/121436228/220696740-b6b764b1-e872-4da8-9221-092fb91ce3d8.png"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220696740-b6b764b1-e872-4da8-9221-092fb91ce3d8.png"></p>
 
 <p> Let's add the domain (myhealthreport.com) and the Admin to the Computer1's VM.  Log back in the computer1, right-click start, go system, and go to change PC name. Select Change then type in myhealthreport.com, plug in Pub.manaje username and password, finally restart Computer1.</p>
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/220700824-46b37bf6-840d-4cd3-acad-65e6dfb2e483.png"></p>
