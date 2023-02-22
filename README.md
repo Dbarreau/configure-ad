@@ -48,7 +48,7 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/220678460-9048710f-c167-45d2-aa17-2e803cb62915.png"></p>  
 
 <p> On Barreau Hospital's VM, go to the Server Manager and create an admin and new users. Go to the tool tab, to make two organizational units (_Doctors and _Patients) through the Active Directory Users and Computer's program. As a adminstrator for PowerShell ISE, run the script for both _Doctors and _Patients codes to create random users. Then, go to _Doctor folder and select a user to become an admin. Finally, restart Barreau Hospital's VM and log back in with the Admin.</p>
-<p> New username: Myhealthreport.com\Pub.manaje               Password: Password1 </p>
+<p> New username: Myhealthreport.com\Pub.manaje ||||||||||||||||| Password: Password1 </p>
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/220687385-63a3e502-ae04-4be2-ba66-7a8d7c7a202d.png"></p>
 
 Create Client 1 (rename to Barreau Hospital)
