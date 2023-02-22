@@ -42,8 +42,7 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 <p>In the Barreau Hospital's VM, download the Active Directory Domain Services. The new domain service will be called Myhealthreport.com </p>
 
 <p> The next step is to break down the firewalls between Barreau Hospital's VM and the Computer1 by going enabling all the ICMPv4's inbound rules. This step opens the communication between both virtual machines.</p>
-<p align=center><img src="https://user-images.githubusercontent.com/121436228/220667270-655eced0-e537-4dc7-a3b4-3dd0e86dc76a.png
-"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/220667270-655eced0-e537-4dc7-a3b4-3dd0e86dc76a.png"></p>
 
 Change DC-1 IP Address from dynamic to static
 
